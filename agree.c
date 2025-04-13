@@ -10,6 +10,6 @@ if (c == 'y' ||c == 'Y')
 printf("agreed/n");
 }else if(c == 'n' ||c == 'N');
 {
-printf("Not agreed./n");
+printf("Not agreed.\n");
 }
 }
